@@ -167,3 +167,4 @@ K:\Coding Projects\Personal Projects\Personal Budget\server\obj\Debug\net8.0\ref
 K:\Coding Projects\Personal Projects\Personal Budget\server\obj\Debug\net8.0\server.pdb
 K:\Coding Projects\Personal Projects\Personal Budget\server\obj\Debug\net8.0\server.genruntimeconfig.cache
 K:\Coding Projects\Personal Projects\Personal Budget\server\obj\Debug\net8.0\ref\server.dll
+K:\Coding Projects\Personal Projects\Personal Budget\server\obj\Debug\net8.0\server.sourcelink.json
